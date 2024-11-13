@@ -1,0 +1,4 @@
+repository "Rocket@shedw1n@cloud"
+  path "/"
+    br "/main"
+    co "/main"
